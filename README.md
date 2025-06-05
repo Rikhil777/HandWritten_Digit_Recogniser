@@ -72,6 +72,27 @@ digit-recognizer/
 
 ---
 
+## 🧠 Model Training – Handwritten_Digit_Recogniser.ipynb
+This Jupyter Notebook contains the code used to train the Convolutional Neural Network (CNN) model for handwritten digit recognition using the MNIST dataset.
+
+## 📌 What's Inside:
+Data Loading & Preprocessing: Loads the MNIST dataset and normalizes the pixel values.
+
+Model Architecture: Defines a simple CNN with convolutional, pooling, and dense layers.
+
+Training & Evaluation: Trains the model and evaluates its performance on test data.
+
+Saving the Model: Exports the trained model as digit_model.keras for use in the Streamlit app.
+
+## ▶️ How to Use:
+Open Handwritten_Digit_Recogniser.ipynb in Jupyter Notebook, VS Code, or Google Colab.
+
+Run all the cells to train the model.
+
+After training completes, the model will be saved as digit_model.keras in your working directory.
+
+Use this file in your Streamlit app to make predictions.
+
 ## 📝 Notes
 
 - The canvas is black with white strokes to match the input format expected by the MNIST-trained model.
