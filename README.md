@@ -100,6 +100,11 @@ Use this file in your Streamlit app to make predictions.
 - You may improve accuracy by retraining the model or applying better preprocessing techniques.
 
 ---
+## Model Output:
+![Screenshot (49)](https://github.com/user-attachments/assets/db518b0e-de01-4e9b-a9fd-f00c437104f9)
+
+
+---
 
 ## ✅ Conclusion
 
